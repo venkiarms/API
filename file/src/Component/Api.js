@@ -1,0 +1,1 @@
+export const I = 'https://63ce2e97fdfe2764c71d9f64.mockapi.io/Ishu'
